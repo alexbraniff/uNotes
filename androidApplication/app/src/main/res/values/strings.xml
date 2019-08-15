@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">uNotes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="qn_dialog_activity_name">quickNoteDialogActivity</string>
+    <string name="qnns_label_active">Note-ification On</string>
+    <string name="qnns_label_inactive">Note-ification Off</string>
+    <string name="qnns_content_title">Quick Note!</string>
+    <string name="qnns_content">Get ready bruh, it\'s comin\'</string>
+    <string name="service_active">active</string>
+    <string name="service_inactive">inactive</string>
+
+    <string name="qn_label">quickNote</string>
+    <string name="qn_dialog_title">Quick Note</string>
+    <string name="qn_dialog_page_title_text_note">Text</string>
+    <string name="qn_dialog_page_title_drawing_note">Drawing</string>
+    <string name="qn_dialog_page_title_other_note">Other</string>
+    <string name="qn_dialog_save">Save Note</string>
+    <string name="qn_dialog_cancel">Cancel</string>
+</resources>

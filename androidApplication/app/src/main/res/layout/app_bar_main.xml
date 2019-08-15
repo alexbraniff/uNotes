@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.audalics.unotes.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorSecondaryDark"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_main" />
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:orientation="vertical"
+        android:animateLayoutChanges="true">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabAddTop"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="@dimen/fab_margin_vert"
+            android:layout_marginBottom="@dimen/fab_margin_vert"
+            android:layout_marginRight="@dimen/fab_margin_horiz"
+            android:layout_marginLeft="@dimen/fab_margin_horiz"
+            android:backgroundTint="@color/colorSecondaryDark"
+            android:tint="@color/colorGreyLightest"
+            android:visibility="visible"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:borderWidth="0dp"
+            app:srcCompat="@drawable/ic_add_top_black_12dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabAddAbove"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="@dimen/fab_margin_vert"
+            android:layout_marginBottom="@dimen/fab_margin_vert"
+            android:layout_marginRight="@dimen/fab_margin_horiz"
+            android:layout_marginLeft="@dimen/fab_margin_horiz"
+            android:backgroundTint="@color/colorSecondaryDark"
+            android:tint="@color/colorGreyLightest"
+            android:visibility="gone"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:borderWidth="0dp"
+            app:srcCompat="@drawable/ic_add_above_black_12dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabAddBelow"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="@dimen/fab_margin_vert"
+            android:layout_marginBottom="@dimen/fab_margin_vert"
+            android:layout_marginRight="@dimen/fab_margin_horiz"
+            android:layout_marginLeft="@dimen/fab_margin_horiz"
+            android:backgroundTint="@color/colorSecondaryDark"
+            android:tint="@color/colorGreyLightest"
+            android:visibility="gone"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:borderWidth="0dp"
+            app:srcCompat="@drawable/ic_add_below_black_12dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabAddBottom"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="@dimen/fab_margin_vert"
+            android:layout_marginBottom="@dimen/fab_margin_vert"
+            android:layout_marginRight="@dimen/fab_margin_horiz"
+            android:layout_marginLeft="@dimen/fab_margin_horiz"
+            android:backgroundTint="@color/colorSecondaryDark"
+            android:tint="@color/colorGreyLightest"
+            android:visibility="visible"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:borderWidth="0dp"
+            app:srcCompat="@drawable/ic_add_bottom_black_12dp" />
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+</android.support.design.widget.CoordinatorLayout>

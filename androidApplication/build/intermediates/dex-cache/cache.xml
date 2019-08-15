@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\885511c57b42b3d9591d010176df5bd07c9945d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_4eb214b03f30f30bdf63f3d8b71b71ebd5c5f746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\aeb8d0e480edab4ed9b5345b7600fbeb0ee67d31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_b513c1f4c1a8c8995bd2af191ee01e5686008ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\063183a4583bf960ff06c52671cf85ee8907064e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_96a16dbd46b7249972874812f294edc66db786aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_73bbed18417944dfb7c14928299d55f00b655d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\d06fa2561adab510acdc05bb5c03ec665cc42fe6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_b45cc3bf5fe297df302a4a4683fe6c490bdc591a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_36c2befb588789265823cd58ca9132dc207beb58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\4ad427450705e9fd6bee3a1229f8d11fad4cce0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_639d82bfb4eb65c9abca9be6895cd6eba4b71041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\14cc7f422f07b92b0e26bfb777ac71e21840a06f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_0925823ca62002859e737d76fe3ee660662db97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\a1710d9ac675cbbd0480a8185483706717b87f12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_0dd78d8cfa44628c3ee604ce350e88a862797dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\0a117766f410ccbd99772e6fe8677a6e574b5051\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_b3cb3cb083031bdab6b5cada2a1aa8f1e1d625fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\b2f48bf3a3fe64c876b2a3f7935eab5fa498f743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_1a26c8cf5c3331b18d477b2ef4bd701effdc07a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\ff6a430b275a3d3274d68d4deb1b34c7f31d25bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_e81d90b9d5555a4a535cd198b12de602751ffa42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alexb\unotes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_543c8ef87ca1ea68e271b26f972b09f9d00c6cbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alexb\unotes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9845f507eade2a430b7c3fd308db9fb305f3d87d">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c59c061aca5f304e2c290c638bfa0039573b19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\5881ae2d7b62ad5f380ad7b62ad5a899057500cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_1ba0ac463a935456855dc0ec0e841e18ee034979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\bf35e966439bb7da772c964aa778bd6438d034b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_c6917296dacb0ce45c151419dd9bd7d7f1ab99ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\5612e88b5f94bac1f3e26409a281da15f7fcd64d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_4909d26b46fab78396b446a0c96f312040c13441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\1f0216605e9dcc17429d5ecf391af992e5a00d63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\alexb\unotes\app\build\intermediates\pre-dexed\debug\classes_6acc190645087439da66238eea3b03f43860ff0a.jar" />
+    </item>
+
+</items>
